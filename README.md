@@ -1,3 +1,8 @@
+<p align="center">  
+  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Mi" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Özge</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
