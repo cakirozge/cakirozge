@@ -1,40 +1,43 @@
-<p align="center">  
-  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Mi" />
-</p>
+<h2 align="center">Hi !<br>⋆｡‧˚ʚ🍓ɞ˚‧｡⋆<br> I'm Özge</h2>
 
+###
 
+<br clear="both">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özge Çakır
-==================================================================================================================================
+<p align="left">I completed my undergraduate education at the Aksaray University, Department of Food Engineering. I currently work as a data labeler at Kovan App. I have a keen interest in artificial intelligence technologies and I continue to develop myself in this field.</p>
 
-Fullstack Developer
--------------------
+###
 
-I love code !!! ✨👩🏻‍💻🚀
+<br clear="both">
 
-* 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [caakir.ozge@gmail.com](mailto:caakir.ozge@gmail.com)
-* 🚀  I'm currently working on [nLayeredApp](http://github.com/cakirozge/nLayeredApp)
-* 🧠  I'm learning C# .NET , React, JS, TypeScript
-* 🤝  I'm open to collaborating on Other Fullstack projects!
-* ⚡  I have a fish named Kırçıl ✧˖°
+<img align="right" height="200" src="https://i.pinimg.com/originals/ff/75/d6/ff75d6ba4285982c35529afc176501dc.gif"  />
 
-### Skills
+###
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cakirozge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cakirozge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="130" alt="languages graph"  />
+</div>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.github.com/cakirozge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cakirozge1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@caakir-ozge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
+</div>
 
+###
 
-<b>My GitHub Stats</b>
+<div align="left">
+  <a href="https://medium.com/@caakir-ozge" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cakirozge1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<a href="http://www.github.com/cakirozge"><img src="https://github-readme-stats.vercel.app/api?username=cakirozge&show_icons=true&hide=prs,issues,contribs&title_color=a855f7&text_color=ec4899&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="cakirozge's GitHub stats" /></a>
-
-<a href="http://www.github.com/cakirozge"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cakirozge&stroke=ec4899&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ec4899&currStreakLabel=a855f7&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
-<a href="https://github.com/cakirozge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakirozge&langs_count=10&title_color=a855f7&text_color=ec4899&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+###
