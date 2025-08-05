@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">I completed my undergraduate education at the Aksaray University, Department of Food Engineering. I currently work as a data labeler at Kovan App. I have a keen interest in artificial intelligence technologies and I continue to develop myself in this field.</p>
+
 
 ###
 
